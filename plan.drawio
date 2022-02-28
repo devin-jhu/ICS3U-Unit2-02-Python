@@ -60,7 +60,7 @@
                 <mxCell id="10" value="input length&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="-90" y="350" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="11" value="show area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="810" y="350" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
